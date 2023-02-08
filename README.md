@@ -1,4 +1,5 @@
 # IN8 Shop
+![Landing Page](https://user-images.githubusercontent.com/97035956/217620699-1f6baf19-b4e7-4de6-963f-f7f657e1101a.png)
 
 > Esse repositório foi criado com o intuito de centralizar algumas informações sobre o projeto feito.
 
