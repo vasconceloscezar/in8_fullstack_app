@@ -4,17 +4,19 @@
 
 O Repositório dos dois projetos pode ser encontrado nos links abaixo. 
 
-[Backend](https://github.com/vasconceloscezar/e-commerce-api_in8) </br>
-[Frontend](https://github.com/vasconceloscezar/e_commerce_app_in8)
+- [Backend](https://github.com/vasconceloscezar/e-commerce-api_in8) </br>
+- [Frontend](https://github.com/vasconceloscezar/e_commerce_app_in8)
 
 
 ## Overview do projeto. 
-> Um resumo geral do projeto, visto que há mais detalhes dentro de cada repositório mo `readme`, além de instruções de instalação e também alguns detalhes como tomadas > > de decisão durante o desenvolvimento. 
+> Um resumo geral do projeto, visto que há mais detalhes dentro de cada repositório mo `readme`, além de instruções de instalação e também alguns detalhes como tomadas > de decisão durante o desenvolvimento. 
 
 O projeto foi feito em duas partes:
 
 - Uma `API Rest` escrita em `TS` utizando `NodeJS`; 
 - Um `App` escrito em `dart` utilizando `Flutter`;
+
+Durante todo o desenvolvimento do projeto, utilizei o [GitHubProjects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) para organizar e centralizar as tarefas, e como separar o desenvolvimento por PRs, cada nova feature foi sendo vinculada com a respectiva PR. [Aqui](https://github.com/users/vasconceloscezar/projects/3/views/2) pode ser visualizado todas as issues criadas, junto com as PRs.  
 
 ### API 
 
