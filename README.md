@@ -12,7 +12,7 @@ O Repositório dos dois projetos pode ser encontrado nos links abaixo.
 
 
 ## Overview do projeto. 
-> Um resumo geral do projeto, visto que há mais detalhes dentro de cada repositório mo `readme`, além de instruções de instalação e também alguns detalhes como tomadas > de decisão durante o desenvolvimento. 
+> Um resumo geral do projeto, visto que há mais detalhes dentro de cada repositório no `README`, além de instruções de instalação e também alguns detalhes como tomadas de decisão durante o desenvolvimento. 
 
 O projeto foi feito em duas partes:
 
