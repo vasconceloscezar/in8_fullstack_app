@@ -1,7 +1,7 @@
 # IN8 Shop
 ![Landing Page](https://user-images.githubusercontent.com/97035956/217622314-c85fed29-7551-4619-bfc4-a4461d007a57.png)
 
-[Baixe o APK aqui](https://drive.google.com/file/d/1DkfoRS2i4blKSjzaQ1mBwKdnnLLTtk8v/view?usp=share_link) 
+[Baixe o APK aqui e veja no seu celular](https://drive.google.com/file/d/1DkfoRS2i4blKSjzaQ1mBwKdnnLLTtk8v/view?usp=share_link) 
 
 > Esse repositório foi criado com o intuito de centralizar algumas informações sobre o projeto feito.
 
@@ -25,7 +25,8 @@ Durante todo o desenvolvimento do projeto, utilizei o [GitHubProjects](https://d
 
 Optei por iniciar o projeto pela API, para deixar tudo pronto e depois só consumir os dados no `front`. 
 Decidi reunir as chamadas dos dois `providers` dentro de uma request só da API criada, assim o consumidor final busca todos produtos por lá. 
-
+A API está hospedada gratuitamente no [Render](https://dashboard.render.com), através do endpoint `https://in8-shop-api.onrender.com/api/` assim não é necessario ter a API rodando localmente para testar o app. 
+ 
 Venho estudando sobre Arquitetura Limpa, e tentei aplicar nessa API. Gostei do resultado mesmo tendo um pouco mais de dificuldade por conta das abstrações. 
 
 No final gostei do resultado e muito do que eu utilizei nessa API vou reaproveitar em futuros projetos pessoais. 
