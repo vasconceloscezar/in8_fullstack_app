@@ -4,8 +4,8 @@
 
 O Repositório dos dois projetos pode ser encontrado nos links abaixo. 
 
-- [Backend](https://github.com/vasconceloscezar/e-commerce-api_in8) </br>
-- [Frontend](https://github.com/vasconceloscezar/e_commerce_app_in8)
+- [Backend](https://github.com/vasconceloscezar/in8_shop_api) </br>
+- [Frontend](https://github.com/vasconceloscezar/in8_shop_app)
 
 
 ## Overview do projeto. 
