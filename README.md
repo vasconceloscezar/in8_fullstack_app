@@ -1,7 +1,7 @@
 # IN8 Shop
 ![Landing Page](https://user-images.githubusercontent.com/97035956/217622314-c85fed29-7551-4619-bfc4-a4461d007a57.png)
 
-[Baixe o APK aqui e veja no seu celular](https://drive.google.com/file/d/10fn3hjhpxFOrQDx8qoYRIXH7sPJCi7nZ/view?usp=share_link) 
+[Baixe o APK aqui e veja no seu celular](https://drive.google.com/file/d/1wz33a4ubZSnNxtdj0oe5auH5-W3sxkLy/view?usp=share_link) 
 
 > Esse repositório foi criado com o intuito de centralizar algumas informações sobre o projeto feito.
 
